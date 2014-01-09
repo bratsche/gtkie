@@ -1,11 +1,6 @@
 using System;
 using Gtk;
 using System.Windows.Forms;
-using Microsoft.Win32;
-using System.Security;
-using System.Security.Permissions;
-using System.Runtime.InteropServices;
-using System.Runtime.InteropServices.ComTypes;
 
 public partial class MainWindow : Gtk.Window
 {
